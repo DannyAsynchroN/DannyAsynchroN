@@ -9,13 +9,3 @@ DannyAsynchroN/DannyAsynchroN is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
-GitHub user = new GithubUser();
-user.setName( "DannyAsynchroN" ); 
-user.setAge( 25 );
-user.getInfo().show();
-
-> ConsoleColor originalConsoleColor  = Console.ForegroundColor;
-> try{
-.  Console.ForegroundColor = ConsoleColor.Red;
-.  Console.WriteLine("Was suchst du hier? Keule.");
